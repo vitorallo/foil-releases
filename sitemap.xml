@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.foil.dev/</loc>
+         <loc>https://docsfoil.peachstudio.be/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/benchmark-dvna/</loc>
+         <loc>https://docsfoil.peachstudio.be/benchmark-dvna/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/benchmark-securereview-7b/</loc>
+         <loc>https://docsfoil.peachstudio.be/benchmark-securereview-7b/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/quickstart/</loc>
+         <loc>https://docsfoil.peachstudio.be/quickstart/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/benchmarks/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/benchmarks/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/calibrate/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/calibrate/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/findings/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/findings/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/maintenance/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/maintenance/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/map/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/map/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/model/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/model/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/scan/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/scan/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/cli/server/</loc>
+         <loc>https://docsfoil.peachstudio.be/cli/server/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/getting-started/install/</loc>
+         <loc>https://docsfoil.peachstudio.be/getting-started/install/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/getting-started/licensing/</loc>
+         <loc>https://docsfoil.peachstudio.be/getting-started/licensing/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/getting-started/what-is-foil/</loc>
+         <loc>https://docsfoil.peachstudio.be/getting-started/what-is-foil/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/dashboard/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/dashboard/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/deep-dive/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/deep-dive/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/findings/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/findings/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/login/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/login/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/logs/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/logs/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/models/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/models/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/project-detail/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/project-detail/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/projects/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/projects/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/scan-a-project/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/scan-a-project/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.foil.dev/ui/settings/</loc>
+         <loc>https://docsfoil.peachstudio.be/ui/settings/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
 </urlset>
