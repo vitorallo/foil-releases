@@ -823,15 +823,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#unistall-brew-installations" class="md-nav__link">
+  <a href="#uninstall-a-homebrew-install" class="md-nav__link">
     <span class="md-ellipsis">
       
-        unistall brew installations
+        Uninstall a Homebrew install
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="unistall brew installations">
+    <nav class="md-nav" aria-label="Uninstall a Homebrew install">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1334,15 +1334,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#unistall-brew-installations" class="md-nav__link">
+  <a href="#uninstall-a-homebrew-install" class="md-nav__link">
     <span class="md-ellipsis">
       
-        unistall brew installations
+        Uninstall a Homebrew install
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="unistall brew installations">
+    <nav class="md-nav" aria-label="Uninstall a Homebrew install">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1413,13 +1413,16 @@ removes the CLI from PATH, and optionally removes Foil.app.</p>
 <a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a>  -y, --yes        Skip confirmation
 <a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a>  --help           Show this message and exit.
 </code></pre></div>
-<h2 id="unistall-brew-installations">unistall brew installations<a class="headerlink" href="#unistall-brew-installations" title="Permanent link">¶</a></h2>
-<p>Brew will take care of opionally zapping the folder and the preferences.</p>
-<p>brew uninstall --cask foil</p>
-<p>Manually:</p>
-<p>brew uninstall --cask foil
-rm -rf ~/.foil
-defaults delete be.peachstudio.foil</p>
+<h2 id="uninstall-a-homebrew-install">Uninstall a Homebrew install<a class="headerlink" href="#uninstall-a-homebrew-install" title="Permanent link">¶</a></h2>
+<p>If you installed Foil via <code>brew install --cask foil</code>, the clean way to remove it is:</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>brew<span class="w"> </span>uninstall<span class="w"> </span>--cask<span class="w"> </span>foil
+</code></pre></div>
+<p><code>brew</code> optionally zaps <code>~/.foil</code> and the <code>be.peachstudio.foil</code> preferences for you (it will ask).</p>
+<p>To wipe everything manually (app + data + preferences):</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>brew<span class="w"> </span>uninstall<span class="w"> </span>--cask<span class="w"> </span>foil
+<a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a>rm<span class="w"> </span>-rf<span class="w"> </span>~/.foil
+<a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a>defaults<span class="w"> </span>delete<span class="w"> </span>be.peachstudio.foil
+</code></pre></div>
 <h3 id="what-gets-removed">What gets removed<a class="headerlink" href="#what-gets-removed" title="Permanent link">¶</a></h3>
 <p>By default, <code>foil uninstall</code> removes:</p>
 <ul>
