@@ -2,110 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docsfoil.peachstudio.be/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/benchmark-dvna/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/benchmark-securereview-7b/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
+    </url>
+    <url>
+         <loc>https://docsfoil.peachstudio.be/packaging-guide/</loc>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/quickstart/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/benchmarks/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/calibrate/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/findings/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/maintenance/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/map/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/model/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/scan/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/cli/server/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/getting-started/install/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/getting-started/licensing/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/getting-started/what-is-foil/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/dashboard/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/deep-dive/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/findings/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/login/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/logs/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/models/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/project-detail/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/projects/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/scan-a-project/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
     <url>
          <loc>https://docsfoil.peachstudio.be/ui/settings/</loc>
-         <lastmod>2026-04-20</lastmod>
+         <lastmod>2026-04-25</lastmod>
     </url>
 </urlset>
